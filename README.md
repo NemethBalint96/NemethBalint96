@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Codewars badge](https://www.codewars.com/users/NemethBalint96/badges/large "Codewars badge")
 <!--
 **NemethBalint96/NemethBalint96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
